@@ -1,4 +1,4 @@
-1) Посмотреть где я— $pwd
+<b>1) Посмотреть где я </b> — $pwd
 2) Создать папку—-$mkdir qa_test
 3) Зайти в папку——$cd qa_test
 4) Создать 3 папки—-$mkdir version_1 version_2 version_3
